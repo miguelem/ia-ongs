@@ -252,4 +252,4 @@ No todos los pilotos funcionarán, y eso está bien. Lo importante es aprender r
 
 Si quieres profundizar en cualquiera de estas estrategias, en la guía completa encontrarás ejemplos detallados, prompts listos para usar y recomendaciones específicas para cada una:
 
-👉 [Guía completa: Estrategias rápidas de IA para ONGs](https://ongs.top/estrategias-rapidas-ia//?ref=p12)
+👉 [Guía completa: Estrategias rápidas de IA para ONGs](https://ongs.top/estrategias-rapidas-ia/?ref=p12)
